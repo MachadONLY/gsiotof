@@ -1,5 +1,11 @@
 # GLOBAL SOLUTIONS 2025 (GS) – O FUTURO DO TRABALHO
 
+## Integrantes do Grupo
+
+*  Camila do Prado Padalino - RM98316
+*  Gabriel Teixeira Machado - RM551570
+*  Guilherme Brazioli - RM98237
+
 ## Projeto: Smart Energy Saver (SES) - Otimização Energética em Ambientes de Trabalho
 
 ### 1. Descrição do Problema e Solução
