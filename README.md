@@ -8,7 +8,7 @@
 
 ## Projeto: Smart Energy Saver (SES) - Otimização Energética em Ambientes de Trabalho
 
-> Link pro projeto no Wokwi: **https://wokwi.com/projects/448236584108312577** <br>
+> Link pro projeto no Wokwi: **[https://wokwi.com/projects/448236584108312577](https://wokwi.com/projects/448243116577694721)** <br>
 > Link para o vídeo no Youtube:
 
 ### 1. Descrição do Problema e Solução
@@ -43,11 +43,16 @@ O projeto foi desenvolvido utilizando a **Arduino IDE** para o ESP32. Esta vers�
 ### 3. Instruções de Uso e Simulação
 
 #### Simulação no Wokwi
-1.  Acesse o link do projeto no Wokwi: **https://wokwi.com/projects/448236584108312577**
+1.  Acesse o link do projeto no Wokwi: **[https://wokwi.com/projects/448236584108312577](https://wokwi.com/projects/448243116577694721)**
 2.  Clique em **"Start Simulation"**.
 3.  Abra a **Saída Serial** (Serial Monitor) para visualizar as mensagens de status e a simulação da comunicação HTTP.
-4.  Para simular a presença, clique no **Sensor PIR** no diagrama e arraste o *slider* para a posição **HIGH** (Presença). O LED deve acender.
-5.  Para simular a ausência, mova o *slider* para **LOW**. Após 10 segundos, o LED deve apagar, e a Saída Serial mostrará o alerta de economia.
+4.  Clique no Sensor PIR no diagrama, e no pop-up que aparecer, clique no botão **"Simulate motion"**.
+  - Isso coloca o sensor em estado HIGH (presença detectada) e o LED irá acender.
+5. Aguarde alguns segundos sem simular movimento.
+   - O PIR voltará para LOW (ausência).
+   - Após 10 segundos, o LED deve apagar.
+   - A saída Serial exibirá as mensagens de economia de energia.
+
 
 ### 4. Explicação sobre a Comunicação HTTP (Simulada)
 
