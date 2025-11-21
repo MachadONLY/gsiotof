@@ -29,7 +29,7 @@ Para fins de demonstração em ambiente de simulação (Wokwi), a comunicação 
 | :--- | :--- | :--- |
 | **ESP32 Dev Kit C V4** | Microcontrolador | - |
 | **Sensor PIR** | Detecção de presença (Entrada) | **GPIO 27** |
-| **LED (com Resistor 330Ω)** | Simula o dispositivo controlado (Saída) | **GPIO 26** |
+| **LED ** | Simula o dispositivo controlado (Saída) | **GPIO 26** |
 
 
 *Observação: O diagrama deve mostrar as conexões do Sensor PIR (VCC, GND, OUT) e do LED (com resistor) ao ESP32, conforme as instruções de fiação.*
@@ -40,7 +40,7 @@ O projeto foi desenvolvido utilizando a **Arduino IDE** para o ESP32. Esta vers�
 ### 3. Instruções de Uso e Simulação
 
 #### Simulação no Wokwi
-1.  Acesse o link do projeto no Wokwi: **[INSERIR LINK PÚBLICO DO SEU PROJETO WOKWI AQUI]**
+1.  Acesse o link do projeto no Wokwi: **https://wokwi.com/projects/448236584108312577**
 2.  Clique em **"Start Simulation"**.
 3.  Abra a **Saída Serial** (Serial Monitor) para visualizar as mensagens de status e a simulação da comunicação HTTP.
 4.  Para simular a presença, clique no **Sensor PIR** no diagrama e arraste o *slider* para a posição **HIGH** (Presença). O LED deve acender.
