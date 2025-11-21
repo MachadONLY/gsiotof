@@ -34,6 +34,7 @@ Para fins de demonstração em ambiente de simulação (Wokwi), a comunicação 
 | **Sensor PIR** | Detecção de presença (Entrada) | **GPIO 27** |
 | **LED ** | Simula o dispositivo controlado (Saída) | **GPIO 26** |
 
+![Wokwi Preview](smart_energy_saver/img/Wokwi.png)
 
 *Observação: O diagrama deve mostrar as conexões do Sensor PIR (VCC, GND, OUT) e do LED (com resistor) ao ESP32, conforme as instruções de fiação.*
 
