@@ -36,7 +36,6 @@ Para fins de demonstração em ambiente de simulação (Wokwi), a comunicação 
 
 ![Wokwi Preview](smart_energy_saver/img/Wokwi.png)
 
-*Observação: O diagrama deve mostrar as conexões do Sensor PIR (VCC, GND, OUT) e do LED (com resistor) ao ESP32, conforme as instruções de fiação.*
 
 #### Dependências de Software
 O projeto foi desenvolvido utilizando a **Arduino IDE** para o ESP32. Esta versão é **OFFLINE** e não requer bibliotecas de rede (`WiFi.h`, `HTTPClient.h` ou `PubSubClient.h`), garantindo o funcionamento imediato no Wokwi.
