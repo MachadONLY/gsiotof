@@ -9,7 +9,7 @@
 ## Projeto: Smart Energy Saver (SES) - Otimização Energética em Ambientes de Trabalho
 
 > Link pro projeto no Wokwi: **[https://wokwi.com/projects/448236584108312577](https://wokwi.com/projects/448243116577694721)** <br>
-> Link para o vídeo no Youtube: **https://youtu.be/QKHOA_szSO8?si=RtFG32M39rwPCezV**
+> Link para o vídeo no Youtube: **https://youtu.be/QKHOA_szSO8?si=RtFG32M39rwPCezV** (Colocar a qualidade do vídeo em 1080p - HD)
 
 ## 1. Descrição do Problema e Solução
 
